@@ -21,8 +21,7 @@ h1{
 margin-left:35%;
 }
 
-/* @mixin shadow {
-    box-shadow: -6px -6px 9px #fff, 6px 6px 9px rgba(#000, 0.4); */
+
 main{
     padding:2rem;
     border-radius:30px
